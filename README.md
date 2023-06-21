@@ -26,7 +26,7 @@ ChatBot is a Python-based conversational agent implemented using Flask and AIML 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chatbot.git
+   git clone https://github.com/minhalawais/nlp-chatbot
    ```
 
 2. Navigate to the project directory:
