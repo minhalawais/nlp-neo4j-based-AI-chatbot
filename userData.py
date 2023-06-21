@@ -1,0 +1,2 @@
+userEmail = ""
+last_message = ""
