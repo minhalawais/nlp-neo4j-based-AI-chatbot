@@ -10,9 +10,9 @@ ChatBot is a Python-based conversational agent implemented using Flask and AIML 
 - Natural language processing using AIML
 - Sentiment analysis for user messages
 - Web scraping for answering certain types of questions
+- Gender Prediction Model
 - Fact extraction and relationship building
 - Integration with a Flask web server
-- RESTful API for sending messages and receiving responses
 
 ## Getting Started
 
