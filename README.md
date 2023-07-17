@@ -46,7 +46,7 @@ ChatBot is a Python-based conversational agent implemented using Flask and AIML 
 1. Run the application:
 
    ```bash
-   python main.py
+   python chatbot.py
    ```
 
 2. Access the chatbot interface in your web browser at `http://localhost:40000`.
